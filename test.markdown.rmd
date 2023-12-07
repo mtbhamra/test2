@@ -2,7 +2,7 @@
 title: "test_markdown"
 author: "gbh"
 date: "2023-12-07"
-output: html_document
+output: html_document: keep_md: TRUE
 ---
 
 ```{r setup, include=FALSE}
